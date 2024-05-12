@@ -1,0 +1,26 @@
+﻿@using AspNet_MVC.ViewModels
+
+@model HomeVM
+
+<h1>@Model.Text</h1>
+
+<ul>
+    @foreach(var item in Model.Students)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+
+<ul>
+    @for(int i = 0;i < Model.Students.Count; i++)
+    {
+        <li>@Model.Students[i]</li>
+    }
+</ul>
+
+
+@foreach(var item in Model.Users)
+{
+    <h3>@(item.Id + "-" + item.Age)</h3>
+}

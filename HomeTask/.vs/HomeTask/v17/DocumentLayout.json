@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\mvctask\\HomeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95774B5-43F6-4776-A7F8-D4A0293BAFED}|HomeTask\\HomeTask.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\mvctask\\hometask\\hometask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C95774B5-43F6-4776-A7F8-D4A0293BAFED}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95774B5-43F6-4776-A7F8-D4A0293BAFED}|HomeTask\\HomeTask.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\mvctask\\hometask\\hometask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95774B5-43F6-4776-A7F8-D4A0293BAFED}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\mvctask\\HomeTask\\HomeTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\mvctask\\HomeTask\\HomeTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeTask\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:32:43.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\mvctask\\HomeTask\\HomeTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\mvctask\\HomeTask\\HomeTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:25:19.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

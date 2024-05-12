@@ -1,0 +1,56 @@
+﻿@using HomeTask.ViewModels
+
+@model HomeVM
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Students Order By Age</h1>
+    <table>
+        <tr>
+            <th>Name:</th>
+            <th>Surname:</th>
+            <th>Age:</th>
+            <th>Email:</th>
+            <th>Phone:</th>
+
+        </tr>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <th>@student.Name</th>
+                <th>@student.Surname</th>
+                <th>@student.Age</th>
+                <th>@student.Email</th>
+                <th>@student.Phone</th>
+            </tr>
+        }
+    </table>
+
+    <h1>Products Count: @Model.Products.Count</h1>
+
+    <h3>Products</h3>
+    <table>
+        <tr>
+            <th>Name:</th>
+            <th>Color:</th>
+            <th>Price:</th>
+
+        </tr>
+        @foreach (var products in Model.Products)
+        {
+            <tr>
+                <th>@products.Name</th>
+                <th>@products.Color</th>
+                <th>@products.Price</th>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+
+
+
